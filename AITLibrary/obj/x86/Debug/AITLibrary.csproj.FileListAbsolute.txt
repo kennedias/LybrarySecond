@@ -1,0 +1,12 @@
+C:\Visual Projects\Library\AITLibrary\bin\Debug\AITLibrary.exe
+C:\Visual Projects\Library\AITLibrary\bin\Debug\AITLibrary.pdb
+C:\Visual Projects\Library\AITLibrary\bin\Debug\BusinessLogic.dll
+C:\Visual Projects\Library\AITLibrary\bin\Debug\DataAccessLayer.dll
+C:\Visual Projects\Library\AITLibrary\bin\Debug\BusinessLogic.pdb
+C:\Visual Projects\Library\AITLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.csprojResolveAssemblyReference.cache
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.Properties.Resources.resources
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.UserForm.resources
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.csproj.GenerateResource.Cache
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.exe
+C:\Visual Projects\Library\AITLibrary\obj\x86\Debug\AITLibrary.pdb

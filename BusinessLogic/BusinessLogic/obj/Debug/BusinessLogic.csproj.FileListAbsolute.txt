@@ -1,0 +1,9 @@
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.Properties.Resources.resources
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.csproj.GenerateResource.Cache
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Visual Projects\Library\BusinessLogic\BusinessLogic\obj\Debug\BusinessLogic.pdb

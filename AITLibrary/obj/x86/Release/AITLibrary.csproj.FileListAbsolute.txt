@@ -1,0 +1,13 @@
+C:\Visual Projects\Library\AITLibrary\bin\Release\AITLibrary.exe
+C:\Visual Projects\Library\AITLibrary\bin\Release\AITLibrary.pdb
+C:\Visual Projects\Library\AITLibrary\bin\Release\BusinessLogic.dll
+C:\Visual Projects\Library\AITLibrary\bin\Release\DataAccessLayer.dll
+C:\Visual Projects\Library\AITLibrary\bin\Release\BusinessLogic.pdb
+C:\Visual Projects\Library\AITLibrary\bin\Release\DataAccessLayer.pdb
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.csprojResolveAssemblyReference.cache
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.Properties.Resources.resources
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.csproj.GenerateResource.Cache
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.exe
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.pdb
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.UserForm.resources
+C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.BookForm.resources
