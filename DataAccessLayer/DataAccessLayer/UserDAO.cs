@@ -31,5 +31,20 @@ namespace DataAccessLayer
             return _userDataSet.TabUser;
         }
 
+        public int DeleteUser(int userId)
+        {
+            return _tabUserTableAdapter.DeleteUserByID(userId);
+        }
+
+        public int InsertUser(string userName, string userPassword, int userLevel)
+        {
+            return _tabUserTableAdapter.InsertUser(userName, userPassword, userLevel);
+        }
+
+    /*    public int UpdateUserById(int userId, string userName, string userPassword, int userLevel)
+        {
+            return _tabUserTableAdapter.UpdateUserPasswordByID(userPassword, userId);
+        }
+        */
     }
 }
