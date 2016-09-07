@@ -11,3 +11,5 @@ C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.exe
 C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.pdb
 C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.UserForm.resources
 C:\Visual Projects\Library\AITLibrary\obj\x86\Release\AITLibrary.BookForm.resources
+C:\Users\5399\Documents\GitHub\LybrarySecond\AITLibrary\obj\x86\Release\AITLibrary.exe
+C:\Users\5399\Documents\GitHub\LybrarySecond\AITLibrary\obj\x86\Release\AITLibrary.pdb
