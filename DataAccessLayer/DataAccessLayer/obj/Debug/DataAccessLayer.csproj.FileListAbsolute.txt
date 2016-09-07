@@ -8,3 +8,8 @@ C:\Users\5399\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\bin
 C:\Users\5399\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
 C:\Users\5399\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\5399\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Kennedy\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Kennedy\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Kennedy\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Kennedy\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Kennedy\Documents\GitHub\LybrarySecond\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

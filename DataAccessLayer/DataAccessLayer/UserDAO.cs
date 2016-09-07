@@ -46,5 +46,15 @@ namespace DataAccessLayer
             return _tabUserTableAdapter.UpdateUserPasswordByID(userPassword, userId);
         }
         */
+
+        public int UpdateUser(string userName, string userPassword, int userLevel, int userId)
+        {
+            return _tabUserTableAdapter.UpdateUser(userName, userPassword, userLevel, userId);
+        }
+
+        public int SelectCountUserByName(string userName)
+        {
+            return (int)_tabUserTableAdapter.SelectCountByUserName(userName);
+        }
     }
 }
