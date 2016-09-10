@@ -59,12 +59,15 @@ namespace BusinessLogic
                 model.UserID = row.UID;
                 model.UserName = row.UserName;
 
-                if (row.UserLevel == 3)
-                    model._userLevelDescription = "Administrator";
-                else if (row.UserLevel == 2)
-                    model._userLevelDescription = "Supervisor";
+                if (row.UserLevel == Constants.administratorCode)
+                    model._userLevelDescription = Constants.administratorDescription;
+                else if (row.UserLevel == Constants.supervisorCode)
+                    model._userLevelDescription = Constants.supervisorDescription;
+                else if (row.UserLevel == Constants.userCode)
+                    model._userLevelDescription = Constants.userDescription;
                 else
-                    model._userLevelDescription = "User";
+                    throws new us
+
 
                 return model;
 
